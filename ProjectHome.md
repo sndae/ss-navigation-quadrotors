@@ -1,0 +1,1 @@
+A new implement of a typical but much more powerfual Quadrotor, using four AVR Mega8 MCUs which communicate via IIC with a STM32F103x flight control MCU retriving all need postion data from a 3-axis gyroscope, an 3-axis gyroscope, a 3-axis compass and two pressure sensors to control four BLDC and then the whole frame.
